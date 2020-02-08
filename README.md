@@ -1,5 +1,5 @@
 # GCI-2019-Aayushman
-All the tasks completed in Google Code-in 2019 by Aayushman
+Tasks completed in Google Code-in 2019 by Aayushman
 
 
 [GoLang] Setup a GoLang Project to support REST endpoints
