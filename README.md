@@ -45,3 +45,5 @@ Google Code-in 2019 Summary for Aayushman,
 ## **The Mifos Initiative**
 
 *   [Mifos Android Client - Bug Fix: App crashes when clicking the upload button without selecting a file but filled name and description](https://codein.withgoogle.com/archive/2019/t/6287413450637312/)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
