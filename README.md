@@ -2,7 +2,7 @@
 
 Google Code-in 2019 Summary for Aayushman,
 
-<div>**JBoss Community**
+## **JBoss Community**
 
 *   [[GoLang] Setup a GoLang Project to support REST endpoints](https://codein.withgoogle.com/archive/2019/t/5349326289633280/)
 *   [[React-GraphQL] An advanced dashboard to mutate through a list of records fetched from an API](https://codein.withgoogle.com/archive/2019/t/5458736689184768/)
@@ -42,10 +42,6 @@ Google Code-in 2019 Summary for Aayushman,
 *   [[Offix Android] Write unit tests for the sample app](https://codein.withgoogle.com/archive/2019/t/6294940380823552/)
 *   [[Offix Android] Use fragments in GraphQL files in sample app (Offix Android)](https://codein.withgoogle.com/archive/2019/t/6044761757057024/)
 
-</div>
-
-<div>**The Mifos Initiative**
+## **The Mifos Initiative**
 
 *   [Mifos Android Client - Bug Fix: App crashes when clicking the upload button without selecting a file but filled name and description](https://codein.withgoogle.com/archive/2019/t/6287413450637312/)
-
-</div>
