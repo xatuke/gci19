@@ -2,6 +2,8 @@
 
 Google Code-in 2019 Summary for Aayushman,
 
+Total number of tasks completed `38`
+
 ## **JBoss Community**
 
 *   [[GoLang] Setup a GoLang Project to support REST endpoints](https://codein.withgoogle.com/archive/2019/t/5349326289633280/)
